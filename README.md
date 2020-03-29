@@ -14,4 +14,3 @@ Java 8
 Maven (latest version)
 
 
-# AutomationPractice
